@@ -6,7 +6,7 @@
 
 repo นี้สำหรับหนังสือตามชื่อด้านบน เขียนไปเรื่อยตามโอกาสอำนวย เนื่องจากเนื้อหาส่วนใหญ๋เปลี่ยนแปลงตลอดเวลา จึงไม่มีหมายกำหนดการแล้วเสร็จ 
 <hr>
-<a href="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ch2_eq_constraints.png" width=600 />
+<img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ch2_eq_constraints.png" width=600 />
 <hr>
  
 ### คำนำ
