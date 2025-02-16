@@ -21,3 +21,7 @@ repo นี้สำหรับหนังสือตามชื่อด้
 
 * [บทที่ 1](/doc/chapter1_wip.pdf)
 * [บทที่ 2](/doc/notebooks/chapter2.ipynb)
+
+### วีดีโอ
+
+* [บทที่ 2 (part I)](https://youtu.be/G9vPLkXH4xU) วิธีนิวตันสำหรับการหาค่าต่ำสุดแบบไม่มีเงื่อนไข
