@@ -21,6 +21,7 @@ repo นี้สำหรับหนังสือตามชื่อด้
 
 * [บทที่ 1](/doc/chapter1_wip.pdf)
 * [บทที่ 2](/doc/notebooks/chapter2.ipynb)
+* [บทที่ 3](/doc/notebooks/chapter3.ipynb)
 
 ### วีดีโอ
 
