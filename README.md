@@ -158,4 +158,5 @@ repo นี้สำหรับหนังสือตามชื่อด้
  * [บทที่ 3 (part II)](https://youtu.be/clxvTwEYbwU) หาคำตอบ LQR โดยวิธี QP
  * [บทที่ 3 (part III)](https://youtu.be/ygyYc-_A1Ws) หาคำตอบ LQR โดยวิธีการวนซ้ำริกคาติ  ปัญหาแนวนอนอนันต์ และการควบคุมได้
 #### บทที่ 4
- * [บทที่ 4 (part I)](https://youtu.be/S6TNjx2CWs0) การโปรแกรมพลวัตแบบเชิงกำหนด 
+ * [บทที่ 4 (part I)](https://youtu.be/S6TNjx2CWs0) การโปรแกรมพลวัตแบบเชิงกำหนด
+ * [บทที่ 4 (part II)](https://youtu.be/KCiFgMSlj_Q) ตัวควบคุมทำนายโมเดล 
