@@ -9,7 +9,7 @@ repo นี้สำหรับหนังสือตามชื่อด้
 คลิกที่ลิงก์ของแต่ละบทเพื่ออ่านออนไลน์หรือดาวน์โหลด notebook เพื่อรันโค้ด โดยต้องติดตั้งแพ็กเกจที่ใช้ในบทนั้นก่อน 
 
 <hr>
-<img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ocrl_cover.png" width=600 />
+<img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ocrl_cover.png" width=800 />
 <hr>
  
 ### คำนำ
