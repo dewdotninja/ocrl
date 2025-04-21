@@ -1,17 +1,7 @@
-# ocrl
-## หนังสือ "การควบคุมเหมาะที่สุดและการเรียนรู้เสริมกำลัง"
-## Optimal Control and Reinforcement Learning
-
-### ดร.วโรดม ตู้จินดา
-
-repo นี้สำหรับหนังสือตามชื่อด้านบน เขียนไปเรื่อยตามโอกาสอำนวย เนื่องจากเนื้อหาส่วนใหญ๋เปลี่ยนแปลงตลอดเวลา จึงไม่มีหมายกำหนดการแล้วเสร็จ 
-
-คลิกที่ลิงก์ของแต่ละบทเพื่ออ่านออนไลน์หรือดาวน์โหลด notebook เพื่อรันโค้ด โดยต้องติดตั้งแพ็กเกจที่ใช้ในบทนั้นก่อน 
-
 <hr>
 
-## การควบคุมเหมาะที่สุดและการเรียนรู้เสริมกำลัง
-## Optimal Control and Reinforcement Learning
+## <div align="center">การควบคุมเหมาะที่สุดและการเรียนรู้เสริมกำลัง</div>
+## <div align="center">Optimal Control and Reinforcement Learning</div>
 
 <img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ocrl_cover.png" width=800 />
 
