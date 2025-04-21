@@ -15,7 +15,7 @@ repo นี้สำหรับหนังสือตามชื่อด้
 
 <img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ocrl_cover.png" width=800 />
 
-<div align="right">### ดร.วโรดม ตู้จินดา</div>
+### <div align="right">ดร.วโรดม ตู้จินดา</div>
 
 <hr>
  
