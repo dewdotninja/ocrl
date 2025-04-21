@@ -4,7 +4,7 @@
 # <div align="center">Optimal Control and Reinforcement Learning</div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ocrl_cover.png" width=800 />
+<img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ocrl_cover.png" width=1000 />
 </div>
 
 ### <div align="right">ดร.วโรดม ตู้จินดา</div>
