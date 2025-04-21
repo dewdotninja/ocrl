@@ -1,7 +1,7 @@
 <hr>
 
-## <div align="center">การควบคุมเหมาะที่สุดและการเรียนรู้เสริมกำลัง</div>
-## <div align="center">Optimal Control and Reinforcement Learning</div>
+# <div align="center">การควบคุมเหมาะที่สุดและการเรียนรู้เสริมกำลัง</div>
+# <div align="center">Optimal Control and Reinforcement Learning</div>
 
 <img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/figs/ocrl_cover.png" width=800 />
 
