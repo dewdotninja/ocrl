@@ -155,6 +155,7 @@
   
  </ul>
 </ul>
+
 * [ภาคผนวก A](/doc/notebooks/appendixA.ipynb) รวมนิยาม/สัญกรณ์/ศัพท์ และคณิตศาสตร์
 <ul>
 <ul>
