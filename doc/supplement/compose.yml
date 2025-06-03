@@ -1,0 +1,15 @@
+---
+services:
+  notebook:
+    build: ./
+    ports:
+      - 8080:8888
+      - 8000-8010:7000-7010
+    user: root
+    environment:
+      - DOCKER_DEFAULT_PLATFORM=linux/amd64
+      - JUPYTER_TOKEN=dewtorchdrake    
+      - NB_UID=1000
+      - GRANT_SUDO="yes" 
+    volumes:
+      - ./:/home/jovyan
