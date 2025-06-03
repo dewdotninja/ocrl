@@ -210,6 +210,14 @@
 
 <hr>
 
+### เอกสารเสริม
+
+* ไฟล์สำหรับสร้าง docker container เพื่อรันโค้ดในหนังสือ
+   * [compose.yml](doc/supplement/compose.yml)
+   * [dockerfile](doc/supplement/dockerfile) 
+
+<hr>
+
 ### วีดีโอ
 
 #### บทที่ 2
