@@ -214,7 +214,7 @@
 
 * ไฟล์สำหรับสร้าง docker container เพื่อรันโค้ดในหนังสือ
    * [compose.yml](doc/supplement/compose.yml)
-   * [dockerfile](doc/supplement/dockerfile) 
+   * [dockerfile](doc/supplement/Dockerfile) 
 
 <hr>
 
