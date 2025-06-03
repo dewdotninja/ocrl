@@ -8,7 +8,7 @@ services:
     user: root
     environment:
       - DOCKER_DEFAULT_PLATFORM=linux/amd64
-      - JUPYTER_TOKEN=dewtorchdrake    
+      - JUPYTER_TOKEN=yourpwd    
       - NB_UID=1000
       - GRANT_SUDO="yes" 
     volumes:
