@@ -238,3 +238,6 @@
 #### บทที่ 6
 * [บทที่ 6](https://youtu.be/5ZsIUVCj0Zw) การหาค่าเหมาะที่สุดของการหมุน
 
+### วีดีโอเสริม
+
+* [แนุะนำการใช้ docker container เพื่อรัน notebooks แต่ละบทของหนังสือ](https://youtu.be/aNBLY_Fkrrs)
