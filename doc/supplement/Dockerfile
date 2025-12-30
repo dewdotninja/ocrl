@@ -10,7 +10,7 @@ RUN	sudo apt -y update && \
 	sudo apt install -y  build-essential gfortran unzip wget libblas-dev liblapack-dev pkg-config libmetis-dev patch &&\
 	sudo apt install -y libpng-dev libfreetype6-dev git 
 
-RUN conda install conda-forge::ipopt
+RUN conda install -y conda-forge::ipopt
 RUN conda install -y conda-forge::cyipopt 
 RUN conda install -y conda-forge::pyoptsparse
 # RUN conda install conda-forge ipopt glpk
