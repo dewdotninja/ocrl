@@ -11,8 +11,10 @@ RUN	sudo apt -y update && \
 	sudo apt install -y libpng-dev libfreetype6-dev git 
 
 RUN conda install conda-forge::ipopt
+RUN conda install -y conda-forge::cyipopt 
+RUN conda install -y conda-forge::pyoptsparse
 # RUN conda install conda-forge ipopt glpk
 
 RUN	pip install --upgrade pip && \
-  	pip install control drake jax osqp meshcat pyomo manipulation underactuated && \
+  	pip install control drake jax osqp meshcat pyomo manipulation underactuated ipyopt && \
         fix-permissions "/home/${NB_USER}"
