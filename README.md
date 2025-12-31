@@ -214,7 +214,9 @@
 
 * ไฟล์สำหรับสร้าง docker container เพื่อรันโค้ดในหนังสือ
    * [compose.yml](doc/supplement/compose.yml)
-   * [Dockerfile](doc/supplement/Dockerfile) 
+   * [Dockerfile](doc/supplement/Dockerfile)
+
+* กรณี Windows หากไม่ต้องการใช้ Docker สามารถรัน notebooks บน WSL [วิธีการสร้าง environment](doc/supplement/wsl.md)
 
 <hr>
 
