@@ -194,7 +194,7 @@
 </ul>
 </ul>
 
-* [ภาคผนวก C](/doc/notebooks/appendixC.ipynb) รวมการใช้งานซอฟต์แวร์เสริม
+* [ภาคผนวก C](/doc/notebooks/appendixC.ipynb) รวมการใช้งานซอฟต์แวร์เสริม [โน๊ตบุคเสริมสำหรับ PyTorch](/doc/notebooks/appC_1.ipynb)
 <ul>
 <ul>
 <li />C.1 การหาอนุพันธ์อัตโนมัติ
