@@ -217,6 +217,7 @@
    * [Dockerfile](doc/supplement/Dockerfile)
 
 * กรณี Windows หากไม่ต้องการใช้ Docker สามารถรัน notebooks บน WSL [วิธีการสร้าง environment](doc/supplement/wsl.md)
+* [เอกสารประกอบการสอน](https://github.com/dewdotninja/ocrl/tree/main/doc/course) วิชา 01208583 Robotics ภาควิชาวิศวกรรมเครื่องกล คณะวิศวกรรมศาสตร์ ม.เกษตรศาสตร์
 
 <hr>
 
