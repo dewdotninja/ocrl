@@ -1,5 +1,7 @@
 # 01208583 Robotics
 
+<img src="https://raw.githubusercontent.com/dewdotninja/ocrl/refs/heads/main/doc/course/merobo25_header.png" width=800 />
+
 folder นี้ใช้เก็บเอกสารสำหรับวิชา 01208583 Robotics ภาควิชาวิศวกรรมเครื่องกล ม.เกษตรศาสตร์
 
 ## หนังสือ 
