@@ -13,11 +13,17 @@ folder นี้ใช้เก็บเอกสารสำหรับวิ�
 * [lecture 1](lectures/merobo25_lect1.pdf)
 * [lecture 2](lectures/merobo25_lect2.pdf)
 * [lecture 3](lectures/merobo25_lect3.pdf)
+* [lecture 4](lectures/merobo25_lect4.pdf)
 
 ## การบ้าน
 
 * [homework 1](hws/merobo_hw1.ipynb)
 * [homework 2](hws/merobo_hw2.ipynb)
+* [homework 3](hws/merobo_hw3.ipynb)
+
+## โครงงาน
+
+* [project](project/)
 
 ## เอกสารและวีดีโออ้างอิง
 
