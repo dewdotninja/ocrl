@@ -1,4 +1,3 @@
-
 <p align="left">
 <img src="https://raw.githubusercontent.com/dewdotninja/exams/main/feng_heading_en.png" width=400 alt="Feng heading"/>
 </p>
@@ -31,6 +30,10 @@ Second Semester, Academic Year 2025
     * Part D : Convex MPC (40 คะแนน)
 
 4. ทำโจทย์ปัญหาข้อ 7-3 ใน [บทที่ 7](https://github.com/dewdotninja/ocrl/blob/main/doc/notebooks/chapter7.ipynb) คือ การหาแนววิถีเหมาะที่สุดแบบลูกผสมสำหรับขาหุ่นยนต์อย่างง่าย เรียกว่าหุ่นยนต์กระโดดขาเดี่ยว (one-legged hopper) ในระนาบ 2 มิติ เขียนโค้ดเพื่อหาแนววิถีเหมาะที่สุดโดยใช้ตัวแก้ปัญหาเช่น IPOPT และจำลองการกระโดดบน meshcat **ใช้ภาษาไพทอนเท่านั้น** ศึกษาเพิ่มเติมได้จาก [Lecture 17: Hybrid Systems and Legged Robots](https://youtu.be/QLyXkH4Jx1I?si=DnPL_NzIx4lix8jB) CMU16-745 (2025)
+
+5. [หุ่นยนต์ลูกตุ้ม (pendubot)](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8847894&fileOId=8859405) มีโครงสร้างคล้ายกับหุ่นยนต์กายกรรม (acrobot) คือประกอบด้วยสองข้อต่อและสองก้านต่อ เพียงแต่ข้อต่อขับเคลื่อนเปลี่ยนเป็นข้อต่อแรก ศึกษาพลวัตของหุ่นยนต์ลูกตุ้ม บรรยายสมการคณิตศาสตร์พร้อมคำอธิบายในรายงาน หลังจากนั้นดำเนินการดังนี้
+    * ใช้วิธีการโดยอ้อมหรือโดยตรงที่ได้ศึกษาในบทที่ 5 เพื่อสร้างแนววิถีเหมาะที่สุด [ที่ทำให้ตำแหน่งสุดท้ายคือแขนชี้ขึ้นเป็นเส้นตรงในแนวดิ่ง](https://youtu.be/x4YUfdK4ycs?si=oLN1r87pwPVjQ0ow) สร้างภาพยนต์เพื่อแสดงให้เห็นว่าแนววิถีได้ตามต้องการ
+    * ออกแบบตัวควบคุม TVLQR เพื่อสร้างเสถียรภาพให้กับแนววิถี จำลองระบบป้อนกลับให้เห็นว่าหุ่นยนต์เคลื่อนตามแมววิถีอย่างมีเสถียรภาพ
 
 ส่งรายงานในรูปแบบ Jupyter notebook และวีดีโออธิบายและสาธิตผลงาน 
 
